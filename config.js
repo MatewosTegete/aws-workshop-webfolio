@@ -1,17 +1,17 @@
 const siteConfig = {
   personal: {
-    name: 'Baimam Boukar',
+    name: 'Matewos Tegete Endaylalu',
     title: 'MSc @ Carnegie Mellon University',
     institution: 'CMU Africa',
     department: 'College of Engineering',
-    email: 'baimamboukar@gmail.com',
+    email: 'mendayla@andrew.cmu.edu',
     location: 'Kigali, Rwanda',
     avatar:
       'https://github.com/user-attachments/assets/19771f37-ee31-43d6-a993-29de6929379c',
-    bio: '🥷 I am Designed For Failure',
+    bio: 'hello',
     social: {
-      email: 'mailto:baimamboukar@gmail.com',
-      github: 'https://github.com/baimamboukar',
+      email: 'mailto:mendayla@andrew.cmu.edu',
+      github: 'https://github.com/MatewosTegete',
       linkedin: 'https://linkedin.com/in/baimamboukar',
       twitter: 'https://twitter.com/baimamboukar',
     },
